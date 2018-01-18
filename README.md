@@ -13,7 +13,7 @@
 1. Vælg aktuelt sprog under add.gitignore fx "Node"
 1. tryk for at færdigøre på Create repository.
 
-eksemple: ![repository](\repsitory.png)
+eksemple: ![repository](./repsitory.png)
 
 
 console log brug
